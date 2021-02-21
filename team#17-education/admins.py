@@ -2,7 +2,6 @@ import requests
 import json
 import configparser as cfg
 
-
 class CS_toolkit():
 
     def __init__(self, config):

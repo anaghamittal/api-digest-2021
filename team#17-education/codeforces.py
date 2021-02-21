@@ -7,6 +7,7 @@ import random
 bot = CS_toolkit("config.cfg")
 
 class Codeforces():
+
     def __init__(self):
         self.base = "https://codeforces.com/api/"
 
