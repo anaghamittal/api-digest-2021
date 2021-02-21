@@ -1,0 +1,28 @@
+[{
+        "Algorithms": "https://www.geeksforgeeks.org/fundamentals-of-algorithms/",
+        "Linear Search": "https://www.geeksforgeeks.org/linear-search/",
+        "Binary Search": "https://www.geeksforgeeks.org/binary-search/",
+        "Searching Algorithms": "https://www.geeksforgeeks.org/searching-algorithms/",
+        "Selection Sort": "https://www.geeksforgeeks.org/selection-sort/",
+        "Bubble Sort": "https://www.geeksforgeeks.org/bubble-sort/",
+        "Sorting Algorithms": "https://www.geeksforgeeks.org/sorting-algorithms/",
+        "Greedy Algorithms": "https://www.geeksforgeeks.org/greedy-algorithms/",
+        "Dynamic Programming": "https://www.geeksforgeeks.org/dynamic-programming/",
+        "Divide and Conquer": "https://www.geeksforgeeks.org/divide-and-conquer/"
+    },
+    {
+        "Arrays": "https://www.geeksforgeeks.org/array-data-structure/",
+        "Linked Lists": "https://www.geeksforgeeks.org/data-structures/linked-list/",
+        "Stack": "https://www.geeksforgeeks.org/stack-data-structure/",
+        "Queue": "https://www.geeksforgeeks.org/queue-data-structure/",
+        "Binary Tree": "https://www.geeksforgeeks.org/binary-tree-data-structure/",
+        "Heap": "https://www.geeksforgeeks.org/heap-data-structure/",
+        "Data Structures": "https://www.geeksforgeeks.org/data-structures/"
+    },
+    {
+        "Interview": "https://www.geeksforgeeks.org/company-interview-corner/"
+    },
+    {
+        "GATE": "https://www.geeksforgeeks.org/gate-cs-notes-gq/"
+    }
+]
